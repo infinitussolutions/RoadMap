@@ -1,7 +1,9 @@
 # RoadMap
 
-AppGestor port to .netstandard 2.0
+- Migrate Repositories from Azure DevOps
 
-Create Infinitus.Models
+- AppGestor port to .netstandard 2.0
 
-Create Infinitus.Entities
+- Create Infinitus.Models
+
+- Create Infinitus.Entities
