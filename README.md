@@ -6,7 +6,7 @@
 
 - Migrate Repositories from Azure DevOps
 
-- AppGestor port to .netstandard 2.0
+- AppGestor port to .netstandard 2.0 ✔
 
 - Create Infinitus.Models
 
